@@ -45,7 +45,7 @@ pip install -r requirements.txt
 sudo apt install tesseract-ocr
 # For macOS
 brew install tesseract
-# For Windows
+# For Windows 9with chocolatey)
 choco install tesseract
 
 # Run the Gradio interface
