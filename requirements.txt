@@ -1,0 +1,14 @@
+torch==2.3.1+cu121 # Ensure CUDA support is installed
+transformers==4.45.2 # Hugging Face Transformers for AI models
+pytesseract==0.3.10 # Tesseract OCR for text extraction
+gradio==4.21.0 # Web-based interface for user interaction
+ollama==0.1.9 # Ollama API for DeepSeek R1 integration
+numpy==1.26.4 # Numerical computations
+pillow==10.3.0 # Image processing
+opencv-python==4.8.1.78 # Additional image preprocessing
+requests==2.31.0 # API requests handling
+matplotlib==3.8.2 # Visualization (if needed)
+einops==0.7.0 # Tensor manipulation library
+scipy==1.11.3 # Scientific computing
+pulp==2.7.0 # Linear programming solver
+shapely==2.0.2 # Geometric objects and operations
