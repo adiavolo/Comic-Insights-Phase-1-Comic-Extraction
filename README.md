@@ -75,4 +75,4 @@ This project is licensed for **academic research purposes only** in accordance w
 
 ---
 
-🚀 **Future Work:** [Phase 2](https://github.com/adiavolo/Comic-Insights-Phase2-Comic-Generation) will focus on **AI-generated comic panels** using NLP and generative models like **Stable Diffusion**.
+🚀 **Phase II:** [Phase 2](https://github.com/adiavolo/Comic-Insights-Phase2-Comic-Generation) will focus on **AI-generated comic panels** using NLP and generative models like **Stable Diffusion**.
