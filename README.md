@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds upon **MagiV2** by **Ragav Sachdeva et al.** and extends its functionality by integrating **DeepSeek R1** for AI-powered summarization. Phase 1 focuses on extracting and summarizing textual content from comic strips using OCR (Tesseract) and AI-based summarization models.
+This project extends the capabilities of **MagiV2** (an open source model) by integrating DeepSeek R1 to enable advanced AI-powered summarization. The primary objective in **Phase 1** is to automate the extraction and summarization of textual content from comic strips.
 
 ## Features
 
@@ -11,13 +11,6 @@ This project builds upon **MagiV2** by **Ragav Sachdeva et al.** and extends its
 - **AI-Powered Summarization:** Utilizes DeepSeek R1 (via Ollama) to generate concise summaries.
 - **Interactive UI:** Built with Gradio for an easy-to-use interface.
 
-## Acknowledgments
-
-This project is built on the **MagiV2** framework, developed by **Ragav Sachdeva et al.** The original repository can be found here:
-
-- [MagiV2 Repository](https://github.com/ragavsachdeva/magi)
-
-The model and datasets from MagiV2 are used under the academic research license and are not intended for commercial use. Please ensure proper citation when using this work.
 
 ## Installation & Setup
 
@@ -55,9 +48,10 @@ python run_with_webUI.py
 ## Usage
 
 1. **Upload comic images** via the Gradio web interface.
-2. **Extracted text** will be displayed after OCR processing.
-3. **AI-generated summaries** will appear after processing with DeepSeek R1.
-4. **Download or copy the transcript and summary** for further use.
+2. **Upload Character Images and Labels** will be used for OCR processing.
+3. **Extracted text** will be displayed after OCR processing.
+4. **AI-generated summaries** will appear after processing with DeepSeek R1.
+5. **Download or copy the transcript and summary** for further use.
 
 ## Citation
 
