@@ -1,5 +1,7 @@
 # Comic Insights: Phase 1 - Comic Strip Context Extraction
 
+https://github.com/user-attachments/assets/d7340611-d95e-46b2-8798-657ef6fd153e
+
 ## Overview
 
 This project, developed for our Software Engineering course following professor’s guidance to reverse engineer comic generation, uses OCR to extract text from comic strips and deep learning NLP models for summarization. Built with PyTorch and Transformer-based architectures, it captures dialogue and story flow, producing concise summaries that aid in quick content understanding and creative analysis. 
