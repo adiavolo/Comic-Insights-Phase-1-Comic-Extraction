@@ -1,6 +1,6 @@
 # Comic Insights: Phase 1 - Comic Strip Context Extraction
 
-https://github.com/user-attachments/assets/d7340611-d95e-46b2-8798-657ef6fd153e
+https://github.com/user-attachments/assets/fecae9e4-a7df-426c-b991-22a5702277fb
 
 ## Overview
 
